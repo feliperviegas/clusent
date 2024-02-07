@@ -1,4 +1,4 @@
-# CluWords Strategies
+# CluSent
 
 ## **How to build the CluSent container:**
 Word Embedding exploited:
